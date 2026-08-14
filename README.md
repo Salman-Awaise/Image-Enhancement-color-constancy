@@ -10,11 +10,11 @@ A comprehensive deep learning and classical baseline pipeline for **color consta
 
 ### Key Features
 
-- 🧠 **Deep Learning**: Improved CNN architecture with data augmentation and regularization
-- 📊 **Classical Baselines**: 8 statistical algorithms (Gray World, White Patch, Shades of Gray, etc.)
-- 🔬 **Comprehensive Evaluation**: Angular error metrics, statistical analysis, and visualization
-- 🧪 **Testing Infrastructure**: Full pytest coverage with fixtures and integration tests
-- 📈 **Performance Analysis**: Benchmarking against <0.9° target from research literature
+- **Deep Learning**: Improved CNN architecture with data augmentation and regularization
+- **Classical Baselines**: 8 statistical algorithms (Gray World, White Patch, Shades of Gray, etc.)
+- **Comprehensive Evaluation**: Angular error metrics, statistical analysis, and visualization
+- **Testing Infrastructure**: Full pytest coverage with fixtures and integration tests
+- **Performance Analysis**: Benchmarking against <0.9° target from research literature
 
 ## Quick Start
 
